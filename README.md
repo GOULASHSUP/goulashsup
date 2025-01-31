@@ -30,4 +30,4 @@ I like 3D design and cars, so feel free to talk about those with me not, just co
 
 ---
 
-# Thanks for Stopping By!
+Thanks for Stopping By!
