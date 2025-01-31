@@ -4,7 +4,7 @@
 – **Passionate (Beginner) developer**  
 – **Lover of open-source & innovation**  
 – **Multimedia designer and current web-dev student**  
-– *and a few more things of course...*
+*and a few more things of course...*
 
 ## And I used these things:
 *My knowledge varies in the field of these technologies and my skills are stronger in some than in others, but I used the ones below at least a few times in my life!*
@@ -26,8 +26,8 @@
 
 ...and a few more!
 
-## A Fun Fact About Me!
-I like 3D design and cars, so feel free to talk about those with me not, just code...
+## Do you want to know a fun fact about me?
+I like 3D design and cars, so feel free to talk about those with me, not just code and design...
 
 ---
 
