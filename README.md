@@ -27,11 +27,11 @@ I like 3D design and cars, so feel free to talk about those with me not, just co
 
 ---
 
-<p align="center" style="font-size: 1.2em; font-weight: bold; color: #FF5733; animation: fadeIn 2s ease-in-out;">Thanks for stopping by!</p>
+<p align="center" style="font-size: 1.2em; font-weight: bold; color: #800080; animation: fadeIn 2s infinite alternate;">✨ Thanks for stopping by! ✨</p>
 
 <style>
 @keyframes fadeIn {
-  from { opacity: 0; }
+  from { opacity: 0.5; }
   to { opacity: 1; }
 }
-</style> 
+</style>
