@@ -1,11 +1,9 @@
 # Hi there! My name is Simon! 
 
 ## About Me
-🔹 **Passionate student developer**  
-🔹 **Lover of open-source & innovation**  
-🔹 **Multimedia designer and current web-dev student**  
-
----
+**Passionate student developer**  
+**Lover of open-source & innovation**  
+**Multimedia designer and current web-dev student**  
 
 ## Technologies & Tools
 
@@ -20,13 +18,9 @@
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
-🔹 ... and many more!
-
----
+... and a few more!
 
 ### Fun Fact About Me!
 I like 3D design and cars, so feel free to talk about those with me not, just code...
-
----
 
 Thanks for stopping by! 
