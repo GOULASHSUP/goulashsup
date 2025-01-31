@@ -18,9 +18,38 @@
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
-... and a few more!
+...and a few more!
 
 ### Fun Fact About Me!
 I like 3D design and cars, so feel free to talk about those with me not, just code...
 
-<p align="center" style="font-size: 1.2em; font-weight: bold; color: #800080;">✨ Thanks for stopping by! ✨</p>
+---
+
+## 🎬 Thanks for Stopping By! 🚗💨
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="250px">
+</p>
+
+<div align="center">
+
+  <h3 style="color:#ffcc00; font-family: 'Arial', sans-serif;">🔧 Built with Passion, Fueled by Creativity! 🎨</h3>
+
+  <p style="color:#dcdcdc;">
+    Whether you're here for the **code**, the **cars**, or just out of curiosity, I appreciate you taking the time to check out my work! 
+  </p>
+
+  <p style="color:#87CEEB;">
+    If you found something cool, feel free to drop a ⭐ or contribute! 
+  </p>
+
+  <p>
+    🚀 Keep coding, stay inspired, and remember... <br> 
+    <strong style="color:#ff4500;">"It's not about the repository, it's about the contribution!"</strong> 💡
+  </p>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Fast%20%26%20Curious-💨-blue?style=flat-square">
+
+</div>
