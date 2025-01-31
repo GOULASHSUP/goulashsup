@@ -6,6 +6,7 @@
 **Multimedia designer and current web-dev student**  
 
 ## Technologies & Tools
+My knowledge varies in the field of these technologies and my skills are stronger in some than in others, but I used the ones below at least a few times in my life!
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,39 +18,16 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 ...and a few more!
 
-### Fun Fact About Me!
+## Fun Fact About Me!
 I like 3D design and cars, so feel free to talk about those with me not, just code...
 
 ---
 
-## 🎬 Thanks for Stopping By! 🚗💨
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="250px">
-</p>
-
-<div align="center">
-
-  <h3 style="color:#ffcc00; font-family: 'Arial', sans-serif;">🔧 Built with Passion, Fueled by Creativity! 🎨</h3>
-
-  <p style="color:#dcdcdc;">
-    Whether you're here for the **code**, the **cars**, or just out of curiosity, I appreciate you taking the time to check out my work! 
-  </p>
-
-  <p style="color:#87CEEB;">
-    If you found something cool, feel free to drop a ⭐ or contribute! 
-  </p>
-
-  <p>
-    🚀 Keep coding, stay inspired, and remember... <br> 
-    <strong style="color:#ff4500;">"It's not about the repository, it's about the contribution!"</strong> 💡
-  </p>
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Fast%20%26%20Curious-💨-blue?style=flat-square">
-
-</div>
+# Thanks for Stopping By!
