@@ -1,9 +1,9 @@
 # Hi there! My name is Simon! 
 
 ## About Me
-**Passionate student developer**  
-**Lover of open-source & innovation**  
-**Multimedia designer and current web-dev student**  
+** – Passionate student developer**  
+** – Lover of open-source & innovation**  
+** – Multimedia designer and current web-dev student**  
 
 ## Technologies & Tools
 
@@ -27,4 +27,4 @@ I like 3D design and cars, so feel free to talk about those with me not, just co
 
 ---
 
-<p align="center" style="font-size: 1.2em; font-weight: bold; color: #800080;"> Thanks for stopping by! </p>
+<p align="center"> Thanks for stopping by! </p>
