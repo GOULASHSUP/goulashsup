@@ -1,12 +1,13 @@
-# Hi there! My name is Simon! 
+# Hi there! My name is Simon. 
 
-## About Me
-**Passionate student developer**  
-**Lover of open-source & innovation**  
-**Multimedia designer and current web-dev student**  
+## I am a:
+– **Passionate (Beginner) developer**  
+– **Lover of open-source & innovation**  
+– **Multimedia designer and current web-dev student**  
+– *and a few more things of course...*
 
-## Technologies & Tools
-My knowledge varies in the field of these technologies and my skills are stronger in some than in others, but I used the ones below at least a few times in my life!
+## And I used these things:
+*My knowledge varies in the field of these technologies and my skills are stronger in some than in others, but I used the ones below at least a few times in my life!*
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +26,7 @@ My knowledge varies in the field of these technologies and my skills are stronge
 
 ...and a few more!
 
-## Fun Fact About Me!
+## A Fun Fact About Me!
 I like 3D design and cars, so feel free to talk about those with me not, just code...
 
 ---
