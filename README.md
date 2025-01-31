@@ -20,7 +20,18 @@
 
 ... and a few more!
 
-### Fun Fact About Me!
+
+
+## Fun Fact About Me!
 I like 3D design and cars, so feel free to talk about those with me not, just code...
 
-Thanks for stopping by! 
+---
+
+<p align="center" style="font-size: 1.2em; font-weight: bold; color: #FF5733; animation: fadeIn 2s ease-in-out;">Thanks for stopping by!</p>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+</style> 
