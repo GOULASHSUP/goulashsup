@@ -1,9 +1,9 @@
 # Hi there! My name is Simon! 
 
 ## About Me
-** – Passionate student developer**  
-** – Lover of open-source & innovation**  
-** – Multimedia designer and current web-dev student**  
+– **Passionate student developer**  
+– **Lover of open-source & innovation**  
+– **Multimedia designer and current web-dev student**  
 
 ## Technologies & Tools
 
