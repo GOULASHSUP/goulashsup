@@ -31,4 +31,9 @@ I like 3D design and cars, so feel free to talk about those with me, not just co
 
 ---
 
+## 🔗 Check Out My Portfolio
+Want to see more of what I’ve been working on?  
+
+[**simonjobbagy.com**](https://simonjobbagy.com/)
+
 Thanks for Stopping By!
