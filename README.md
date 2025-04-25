@@ -28,11 +28,6 @@
 
 ...and a few more!
 
-## Do you want to know a fun fact about me?
-I like 3D design and cars, so feel free to talk about those with me, not just code and design...
-
----
-
 ## Portfolio website
 Want to see more of what I’ve been working on?
 
